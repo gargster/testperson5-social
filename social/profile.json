@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:71f5957a5b22a3578f241a931e0bbb86b19b43121dd817de491e8edad8d1fb59",
   "handle": "testperson5.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/testperson5-social.git",
   "displayName": "TestPerson5",
   "bio": "Testing 5",
   "created": "2026-10-31T00:36:50.399945Z",
-  "signature": "2C+CPInwYjwEYB+1HBe80RxF9Wqp+LlZObX5+bvTXqFnOsAfr66SZMr8bYOaiH4c6jx1l+ggKL7mgcn2bEW4Bg=="
+  "signature": "33J4/Fyzwn0frP5nZLQrPJ8mXp3XihY8U7rhcS6o3Kn3OAo/E2wu0rotILvKLY6yH63bgWxDy6eA2sUGwC/3Bg=="
 }
